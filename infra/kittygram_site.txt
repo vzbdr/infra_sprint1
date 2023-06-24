@@ -1,5 +1,5 @@
 IP: 158.160.6.49;
-name_taski: taskme.servebeer.com;
-name_kittygram: kittycat.servebeer.com;
+name_taski: https://taskme.servebeer.com;
+name_kittygram: https://kittycat.servebeer.com;
 login: admin;
 password: admin; 
